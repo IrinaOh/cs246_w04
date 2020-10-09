@@ -1,2 +1,6 @@
 Hello World Everyone!
+<<<<<<< HEAD
 Sunny day.
+=======
+Stretch Challenge
+>>>>>>> 022ed693451528e7fac13744d0619ae5d9be7f90
